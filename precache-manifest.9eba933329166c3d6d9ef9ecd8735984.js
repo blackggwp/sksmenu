@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "f4a0b0e03ed0b1f88ccf",
-    "url": "/sksmenu/static/js/app.61124e59.chunk.js"
+    "revision": "db8e24e0968f8af29595",
+    "url": "/sksmenu/static/js/app.3599f930.chunk.js"
   },
   {
     "revision": "e4bb4688e653222f67d6",
     "url": "/sksmenu/static/js/runtime~app.2fac8d17.js"
   },
   {
-    "revision": "0dbd7156e1940f771d67",
-    "url": "/sksmenu/static/js/2.db142fbc.chunk.js"
+    "revision": "5ee0125eb17e6498a4ae",
+    "url": "/sksmenu/static/js/2.930cf8cd.chunk.js"
   },
   {
     "revision": "004c2bbb035d8d06bb830efc4673c886",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/sksmenu/favicon.ico"
   },
   {
-    "revision": "798b5fbf406d698daf5fec5525981ef4",
+    "revision": "b2aedf3c3fc28aada921d02782efa6ed",
     "url": "/sksmenu/index.html"
   },
   {
