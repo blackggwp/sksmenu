@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "4225cf00a96be9e8795c",
-    "url": "/sksmenu/static/js/app.1e3d2a77.chunk.js"
+    "revision": "1e97280cfad9c674f383",
+    "url": "/sksmenu/static/js/app.ed6b0096.chunk.js"
   },
   {
     "revision": "e4bb4688e653222f67d6",
     "url": "/sksmenu/static/js/runtime~app.2fac8d17.js"
   },
   {
-    "revision": "78488a67ac6198643e9e",
-    "url": "/sksmenu/static/js/2.f7f475d6.chunk.js"
+    "revision": "0dbd7156e1940f771d67",
+    "url": "/sksmenu/static/js/2.db142fbc.chunk.js"
   },
   {
     "revision": "004c2bbb035d8d06bb830efc4673c886",
@@ -72,12 +72,16 @@ self.__precacheManifest = [
     "url": "/sksmenu/./fonts/FontAwesome5_Brands.ttf"
   },
   {
-    "revision": "48c7ed4e7da9792af288a60d7242d615",
-    "url": "/sksmenu/expo-service-worker.js"
+    "revision": "1586e2040f0fcdbcce1849a97842f6a2",
+    "url": "/sksmenu/static/media/s.1586e204.jpg"
   },
   {
     "revision": "ec543248d7b23864564429fc03837190",
     "url": "/sksmenu/serve.json"
+  },
+  {
+    "revision": "48c7ed4e7da9792af288a60d7242d615",
+    "url": "/sksmenu/expo-service-worker.js"
   },
   {
     "revision": "afd5733ac789ab1795f1ed7a26e1ecd3",
@@ -92,7 +96,7 @@ self.__precacheManifest = [
     "url": "/sksmenu/favicon.ico"
   },
   {
-    "revision": "912fe32b0afb1e0eaee4beeabcba3857",
+    "revision": "3683cb61f45b1068130c1c0761aa2634",
     "url": "/sksmenu/index.html"
   },
   {

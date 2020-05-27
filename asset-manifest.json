@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/sksmenu/static/js/app.1e3d2a77.chunk.js",
-    "app.js.map": "/sksmenu/static/js/app.1e3d2a77.chunk.js.map",
+    "app.js": "/sksmenu/static/js/app.ed6b0096.chunk.js",
+    "app.js.map": "/sksmenu/static/js/app.ed6b0096.chunk.js.map",
     "runtime~app.js": "/sksmenu/static/js/runtime~app.2fac8d17.js",
     "runtime~app.js.map": "/sksmenu/static/js/runtime~app.2fac8d17.js.map",
-    "static/js/2.f7f475d6.chunk.js": "/sksmenu/static/js/2.f7f475d6.chunk.js",
-    "static/js/2.f7f475d6.chunk.js.map": "/sksmenu/static/js/2.f7f475d6.chunk.js.map",
+    "static/js/2.db142fbc.chunk.js": "/sksmenu/static/js/2.db142fbc.chunk.js",
+    "static/js/2.db142fbc.chunk.js.map": "/sksmenu/static/js/2.db142fbc.chunk.js.map",
     "fonts/AntDesign.ttf": "/sksmenu/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/sksmenu/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/sksmenu/./fonts/Feather.ttf",
@@ -26,11 +26,12 @@
     "static/media/bell.png": "/sksmenu/static/media/bell.a7b9dc9d.png",
     "static/media/heart.png": "/sksmenu/static/media/heart.2327736b.png",
     "static/media/rocket.png": "/sksmenu/static/media/rocket.51671417.png",
+    "static/media/s.jpg": "/sksmenu/static/media/s.1586e204.jpg",
     "static/media/star.png": "/sksmenu/static/media/star.004c2bbb.png"
   },
   "entrypoints": [
     "static/js/runtime~app.2fac8d17.js",
-    "static/js/2.f7f475d6.chunk.js",
-    "static/js/app.1e3d2a77.chunk.js"
+    "static/js/2.db142fbc.chunk.js",
+    "static/js/app.ed6b0096.chunk.js"
   ]
 }
