@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "1e97280cfad9c674f383",
-    "url": "/sksmenu/static/js/app.ed6b0096.chunk.js"
+    "revision": "5aca50c181a31ecea4b3",
+    "url": "/sksmenu/static/js/app.f500e8e6.chunk.js"
   },
   {
     "revision": "e4bb4688e653222f67d6",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/sksmenu/static/media/s.1586e204.jpg"
   },
   {
-    "revision": "ec543248d7b23864564429fc03837190",
-    "url": "/sksmenu/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/sksmenu/expo-service-worker.js"
+  },
+  {
+    "revision": "ec543248d7b23864564429fc03837190",
+    "url": "/sksmenu/serve.json"
   },
   {
     "revision": "afd5733ac789ab1795f1ed7a26e1ecd3",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/sksmenu/favicon.ico"
   },
   {
-    "revision": "3683cb61f45b1068130c1c0761aa2634",
+    "revision": "697d6fbdbacaa15ba37e18efa1d23f17",
     "url": "/sksmenu/index.html"
   },
   {
